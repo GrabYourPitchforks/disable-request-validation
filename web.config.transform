@@ -1,0 +1,5 @@
+﻿<configuration>
+  <system.web>
+    <httpRuntime requestPathInvalidCharacters="" requestValidationType="Pitchfork.Web.Util.NoopRequestValidator"/>
+  </system.web>
+</configuration>
